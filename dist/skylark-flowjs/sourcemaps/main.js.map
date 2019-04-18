@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","flowjs"],"mappings":";;;;;;;AAAAA,QACC,WACA,UACC,SAASC,GACV,OAAOA","file":"../main.js","sourcesContent":["define([\r\n\t\"./flowjs\",\r\n\t\"./Flow\"\r\n],function(flowjs){\r\n\treturn flowjs;\r\n});"]}

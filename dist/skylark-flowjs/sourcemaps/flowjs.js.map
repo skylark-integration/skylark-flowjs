@@ -1,0 +1,1 @@
+{"version":3,"sources":["flowjs.js"],"names":["define","skylark","itg","flowjs"],"mappings":";;;;;;;AAAAA,QACC,yBACC,SAASC,GAGV,OAFUA,EAAQC,IAAMD,EAAQC,SAErBC","file":"../flowjs.js","sourcesContent":["define([\r\n\t\"skylark-langx/skylark\"\r\n],function(skylark){\r\n\tvar itg = skylark.itg = skylark.itg || {};\r\n\r\n\treturn itg.flowjs = {};\r\n});"]}
